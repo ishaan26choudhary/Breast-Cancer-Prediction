@@ -26,7 +26,7 @@ The dataset used is `breast_cancer.csv`. It contains 683 records with the follow
 6. *(Optional steps like evaluation, accuracy measurement, or confusion matrix visualization can be added.)*
 
 ## Requirements
-- Python 3.x
+- Python 
 - NumPy
 - Pandas
 - Scikit-learn
